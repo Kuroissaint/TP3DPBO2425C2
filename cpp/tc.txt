@@ -1,0 +1,33 @@
+5
+1
+1
+1
+Hybrid
+Diamond Bow
+29
+Legendary
+Excellent
+Bow
+Staff
+9999
+20
+35
+20
+Earth
+AoE Freezing Basic Attack
+6
+2
+2
+2
+Diamond Glass Rain
+100
+20
+4
+Kianara
+Archer
+129
+600
+980
+1
+1
+1
