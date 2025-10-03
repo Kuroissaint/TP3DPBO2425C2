@@ -180,6 +180,55 @@ Assosiation :
 
 Sebelum :
 
+Cpp --
+
+![cpp1](https://github.com/user-attachments/assets/8e91775b-c739-44f8-ad10-9ea8e529f182)
+
+Py --
+
+![py](https://github.com/user-attachments/assets/b8289591-c228-4997-9dfc-61230994d5da)
+
+Java --
+
+![java1](https://github.com/user-attachments/assets/26e0f3ae-2e64-4c50-bff9-de3722be1b6c)
+
+Proses Input :
+
+Cpp --
+
+![cpp2](https://github.com/user-attachments/assets/307d1a4f-ea9c-4453-9f31-3cf061e5ca71)
+![cpp3](https://github.com/user-attachments/assets/35f5060f-894c-45e1-a597-0ff0afa64009)
+![cpp4](https://github.com/user-attachments/assets/1f7a8ae6-913f-4d8f-ba23-39ebad01687b)
+
+Py --
+
+![py2](https://github.com/user-attachments/assets/d9263e71-cad2-42ca-9bcb-3a3569bde3e0)
+![py3](https://github.com/user-attachments/assets/70b3aaf2-60a1-488e-90d3-3f3f42a2e2a9)
+
+Java --
+
+![java2](https://github.com/user-attachments/assets/4c46c2da-b9e1-4460-a67d-4f26cfa4cc5f)
+
+Hasil akhir :
+
+Cpp --
+
+![cpp5](https://github.com/user-attachments/assets/032d660a-bd09-407d-82da-d642af5b018f)
+
+Py --
+
+![py4](https://github.com/user-attachments/assets/0965e545-538b-4685-8fac-34e1c2227cea)
+
+Java --
+
+![java3](https://github.com/user-attachments/assets/5ca08a2e-43d9-4c7c-848f-b17c25f5d7fa)
+
+
+---
+
+### Udahan Pliss, Sekian dan Terima kasih, RAWRRRRRRRRRR
+
+
     
 
 
